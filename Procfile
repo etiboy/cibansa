@@ -1,0 +1,1 @@
+web: sh -c  "cd cibansa_project && gunicorn cibansa_project.wsgi"
